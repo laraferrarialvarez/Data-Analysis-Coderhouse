@@ -1,1 +1,1 @@
-Entregas del curso Data Analytics del módulo 5
+Entregas del curso Data Analytics del módulo 6
